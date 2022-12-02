@@ -14,7 +14,7 @@ class SpringbootApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Its a test class");
-		assertEquals(true, true);
+		assertEquals(true, true)
 	}
 
 }
